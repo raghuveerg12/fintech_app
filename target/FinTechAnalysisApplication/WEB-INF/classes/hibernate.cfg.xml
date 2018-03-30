@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                                         "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
+		<property name="hibernate.connection.password">demo</property>
+		<property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:xe</property>
+		<property name="hibernate.connection.username">demo</property>
+		<property name="show_sql">false</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
+		<property name="hibernate.hbm2ddl.auto">create</property>
+		<mapping resource="hibernate.hbm.xml" />
+
+
+		
+<!--  		 
+		  <mapping class="com.core.isonsoft.beans.CodeDataSourceBean" />
+		<mapping class="com.core.isonsoft.beans.CoinDeskCurrentPriceTableDataBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexgetMarktSummResult" />
+		<mapping class="com.core.isonsoft.beans.StagAllCoinDepthMainBean" />
+		<mapping class="com.core.isonsoft.beans.VirCurexOrderBookMainBean" />
+		<mapping class="com.core.isonsoft.beans.StagVircurExTradesBean" />
+		<mapping class="com.core.isonsoft.hibernate.beans.VircurExTradesHiberBean" />
+		<mapping class="com.core.isonsoft.beans.StagVirCurExVolumeBean" />
+		<mapping class="com.core.isonsoft.beans.StagVirCurExCurrencyBean" />
+		<mapping class="com.core.isonsoft.beans.StagBtcDepthBean" />
+		<mapping class="com.core.isonsoft.beans.StagBtceTradeBean" />
+		<mapping class="com.core.isonsoft.beans.StagBtceTickerMainBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitStampEurUsdBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitStampTransactionsBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitStampOrderBookBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitStampTickerBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitStampTickerHourBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetCurrenciesBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetMarketsBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetTickerBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetMarketSummariesBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetOrderBookBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitTrexGetMarketHistoryBean" />
+		
+		<mapping class="com.core.isonsoft.beans.StagCcexDashBtcBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexPairsBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexPricesBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexCoinNamesBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexVolumeBtcBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexGetMarketsBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexOorderBookBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexGetMarketHistoryBean" />
+		<mapping class="com.core.isonsoft.beans.StagCcexGetBalanceDistribution" />
+		<mapping class="com.core.isonsoft.beans.StagBitStockOrderBean" />
+		<mapping class="com.core.isonsoft.beans.StagCoinMarketCapGlobalBean" />
+		<mapping class="com.core.isonsoft.beans.StagCoinMarketCapTickerBean" />
+		<mapping class="com.core.isonsoft.beans.StagAllCoinsTickerBean" />
+		<mapping class="com.core.isonsoft.beans.StagBitCoinMagazinBean" />
+		<mapping class="com.core.isonsoft.beans.StagEconomistIndexBean" />
+  		<mapping class="com.core.isonsoft.beans.StagCryptoCoinsNewsFeedBeans" />
+ 		<mapping class="com.core.isonsoft.beans.StatsDownloadBean" />
+		<mapping class="com.core.isonsoft.beans.StagAllCoinTradesBean" />
+	
+
+ 	-->
+ 		<mapping class="com.core.isonsoft.beans.StatsDownloadBean" />
+ 		<mapping class="com.core.isonsoft.beans.StagBitStampTransactionsBean" />
+
+	</session-factory>
+</hibernate-configuration>

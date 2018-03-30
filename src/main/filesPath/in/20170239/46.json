@@ -1,0 +1,905 @@
+{
+"success" : true,
+"message" : "",
+"result" : [
+{
+"Id" : 1381542,
+"TimeStamp" : "2017-02-08 03:01:14",
+"Quantity" : 0.00050258,
+"Price" : 1070.00000000,
+"Total" : 0.53776060,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381540,
+"TimeStamp" : "2017-02-08 02:51:22",
+"Quantity" : 0.00029000,
+"Price" : 1070.00000000,
+"Total" : 0.31030000,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381539,
+"TimeStamp" : "2017-02-08 02:25:35",
+"Quantity" : 0.02229570,
+"Price" : 1077.00000000,
+"Total" : 24.01247160,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381537,
+"TimeStamp" : "2017-02-08 02:24:47",
+"Quantity" : 0.00503732,
+"Price" : 1077.00000000,
+"Total" : 5.42519364,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381536,
+"TimeStamp" : "2017-02-08 02:24:47",
+"Quantity" : 0.00001000,
+"Price" : 1077.00000000,
+"Total" : 0.01077000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381534,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00516079,
+"Price" : 1076.99999999,
+"Total" : 5.55817083,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381533,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00532706,
+"Price" : 1076.99999999,
+"Total" : 5.73724362,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381532,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00001000,
+"Price" : 1076.00000000,
+"Total" : 0.01076000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381531,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.02302420,
+"Price" : 1075.11300000,
+"Total" : 24.75361673,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381530,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.03000000,
+"Price" : 1075.00000000,
+"Total" : 32.25000000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381529,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00001000,
+"Price" : 1075.00000000,
+"Total" : 0.01075000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381528,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00105565,
+"Price" : 1075.00000000,
+"Total" : 1.13482375,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381527,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.05000000,
+"Price" : 1075.00000000,
+"Total" : 53.75000000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381526,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00665315,
+"Price" : 1074.99999999,
+"Total" : 7.15213625,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381525,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00508978,
+"Price" : 1074.99999999,
+"Total" : 5.47151350,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381524,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00536354,
+"Price" : 1074.99999999,
+"Total" : 5.76580550,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381523,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00574757,
+"Price" : 1074.99999999,
+"Total" : 6.17863775,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381522,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00001000,
+"Price" : 1074.00000000,
+"Total" : 0.01074000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381521,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00013710,
+"Price" : 1074.00000000,
+"Total" : 0.14724540,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381520,
+"TimeStamp" : "2017-02-08 02:23:32",
+"Quantity" : 0.00001000,
+"Price" : 1073.00000000,
+"Total" : 0.01073000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381516,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00001000,
+"Price" : 1072.00000000,
+"Total" : 0.01072000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381515,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00001000,
+"Price" : 1071.00000000,
+"Total" : 0.01071000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381514,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00000426,
+"Price" : 1070.79800900,
+"Total" : 0.00456160,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381513,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00001000,
+"Price" : 1070.00000000,
+"Total" : 0.01070000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381512,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.01832909,
+"Price" : 1070.00000000,
+"Total" : 19.61212630,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381511,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00996667,
+"Price" : 1070.00000000,
+"Total" : 10.66433690,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381510,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.02015615,
+"Price" : 1070.00000000,
+"Total" : 21.56708050,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381509,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00259064,
+"Price" : 1070.00000000,
+"Total" : 2.77198480,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381508,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.00001007,
+"Price" : 1069.00000000,
+"Total" : 0.01076483,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381507,
+"TimeStamp" : "2017-02-08 02:22:58",
+"Quantity" : 0.28952608,
+"Price" : 1069.00000000,
+"Total" : 309.50337952,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381506,
+"TimeStamp" : "2017-02-08 02:22:53",
+"Quantity" : 0.00090968,
+"Price" : 1069.00000000,
+"Total" : 0.97244792,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381504,
+"TimeStamp" : "2017-02-08 02:22:27",
+"Quantity" : 0.00229725,
+"Price" : 1069.00000000,
+"Total" : 2.45576025,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381502,
+"TimeStamp" : "2017-02-08 02:22:01",
+"Quantity" : 0.00209197,
+"Price" : 1069.00000000,
+"Total" : 2.23631593,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381500,
+"TimeStamp" : "2017-02-08 02:21:35",
+"Quantity" : 0.00190504,
+"Price" : 1069.00000000,
+"Total" : 2.03648776,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381498,
+"TimeStamp" : "2017-02-08 02:21:09",
+"Quantity" : 0.00173481,
+"Price" : 1069.00000000,
+"Total" : 1.85451189,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381496,
+"TimeStamp" : "2017-02-08 02:20:42",
+"Quantity" : 0.00157979,
+"Price" : 1069.00000000,
+"Total" : 1.68879551,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381494,
+"TimeStamp" : "2017-02-08 02:20:17",
+"Quantity" : 0.00143863,
+"Price" : 1069.00000000,
+"Total" : 1.53789547,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381492,
+"TimeStamp" : "2017-02-08 02:19:51",
+"Quantity" : 0.00131008,
+"Price" : 1069.00000000,
+"Total" : 1.40047552,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381490,
+"TimeStamp" : "2017-02-08 02:19:25",
+"Quantity" : 0.00119302,
+"Price" : 1069.00000000,
+"Total" : 1.27533838,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381488,
+"TimeStamp" : "2017-02-08 02:18:59",
+"Quantity" : 0.00108641,
+"Price" : 1069.00000000,
+"Total" : 1.16137229,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381486,
+"TimeStamp" : "2017-02-08 02:18:34",
+"Quantity" : 0.00099165,
+"Price" : 1069.00000000,
+"Total" : 1.06007385,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381484,
+"TimeStamp" : "2017-02-08 02:18:08",
+"Quantity" : 0.00090515,
+"Price" : 1069.00000000,
+"Total" : 0.96760535,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381482,
+"TimeStamp" : "2017-02-08 02:17:41",
+"Quantity" : 0.00082620,
+"Price" : 1069.00000000,
+"Total" : 0.88320780,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381480,
+"TimeStamp" : "2017-02-08 02:17:15",
+"Quantity" : 0.00075414,
+"Price" : 1069.00000000,
+"Total" : 0.80617566,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381479,
+"TimeStamp" : "2017-02-08 02:17:06",
+"Quantity" : 0.00003636,
+"Price" : 1068.99999999,
+"Total" : 0.03886884,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381477,
+"TimeStamp" : "2017-02-08 02:16:49",
+"Quantity" : 0.00068836,
+"Price" : 1069.00000000,
+"Total" : 0.73585684,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381475,
+"TimeStamp" : "2017-02-08 02:16:25",
+"Quantity" : 0.00472558,
+"Price" : 1068.99999999,
+"Total" : 5.05164502,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381474,
+"TimeStamp" : "2017-02-08 02:16:23",
+"Quantity" : 0.00062832,
+"Price" : 1068.99999999,
+"Total" : 0.67167408,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381472,
+"TimeStamp" : "2017-02-08 02:15:58",
+"Quantity" : 0.00057352,
+"Price" : 1068.99999999,
+"Total" : 0.61309288,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381469,
+"TimeStamp" : "2017-02-08 02:15:35",
+"Quantity" : 0.02667747,
+"Price" : 1068.99999999,
+"Total" : 28.51833302,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381467,
+"TimeStamp" : "2017-02-08 02:14:45",
+"Quantity" : 0.00472503,
+"Price" : 1069.00000000,
+"Total" : 5.05105707,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381466,
+"TimeStamp" : "2017-02-08 02:13:00",
+"Quantity" : 0.00512785,
+"Price" : 1068.99999999,
+"Total" : 5.48167165,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381465,
+"TimeStamp" : "2017-02-08 02:10:52",
+"Quantity" : 0.00192591,
+"Price" : 1068.99999999,
+"Total" : 2.05879779,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381463,
+"TimeStamp" : "2017-02-08 02:10:33",
+"Quantity" : 0.00396818,
+"Price" : 1068.99999999,
+"Total" : 4.24198091,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381462,
+"TimeStamp" : "2017-02-08 02:10:33",
+"Quantity" : 0.00849504,
+"Price" : 1068.00000000,
+"Total" : 9.07270272,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381459,
+"TimeStamp" : "2017-02-08 02:07:54",
+"Quantity" : 0.00668802,
+"Price" : 1067.99999999,
+"Total" : 7.14280536,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381458,
+"TimeStamp" : "2017-02-08 02:07:54",
+"Quantity" : 0.00593539,
+"Price" : 1067.99999999,
+"Total" : 6.33899652,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381457,
+"TimeStamp" : "2017-02-08 02:07:54",
+"Quantity" : 0.00573111,
+"Price" : 1067.99999999,
+"Total" : 6.12082548,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381455,
+"TimeStamp" : "2017-02-08 01:58:49",
+"Quantity" : 0.00159964,
+"Price" : 1059.00000001,
+"Total" : 1.69401876,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381454,
+"TimeStamp" : "2017-02-08 01:57:01",
+"Quantity" : 0.01791972,
+"Price" : 1059.00000000,
+"Total" : 18.97698348,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381453,
+"TimeStamp" : "2017-02-08 01:56:54",
+"Quantity" : 0.01788395,
+"Price" : 1059.00000000,
+"Total" : 18.93910305,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381452,
+"TimeStamp" : "2017-02-08 01:56:48",
+"Quantity" : 0.02546831,
+"Price" : 1059.00000000,
+"Total" : 26.97094029,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381451,
+"TimeStamp" : "2017-02-08 01:56:47",
+"Quantity" : 0.01786608,
+"Price" : 1059.00000000,
+"Total" : 18.92017872,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381450,
+"TimeStamp" : "2017-02-08 01:56:41",
+"Quantity" : 0.01842514,
+"Price" : 1059.00000000,
+"Total" : 19.51222326,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381449,
+"TimeStamp" : "2017-02-08 01:56:34",
+"Quantity" : 0.01841988,
+"Price" : 1059.00000000,
+"Total" : 19.50665292,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381448,
+"TimeStamp" : "2017-02-08 01:56:29",
+"Quantity" : 0.05651212,
+"Price" : 1059.00000000,
+"Total" : 59.84633508,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381447,
+"TimeStamp" : "2017-02-08 01:56:27",
+"Quantity" : 0.01889392,
+"Price" : 1059.00000000,
+"Total" : 20.00866128,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381446,
+"TimeStamp" : "2017-02-08 01:56:14",
+"Quantity" : 0.20105098,
+"Price" : 1061.00000001,
+"Total" : 213.31508978,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381445,
+"TimeStamp" : "2017-02-08 01:46:36",
+"Quantity" : 0.18325367,
+"Price" : 1061.00000001,
+"Total" : 194.43214387,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381444,
+"TimeStamp" : "2017-02-08 01:39:52",
+"Quantity" : 0.00094429,
+"Price" : 1059.00000000,
+"Total" : 1.00000311,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381443,
+"TimeStamp" : "2017-02-08 01:39:46",
+"Quantity" : 0.09442871,
+"Price" : 1059.00000000,
+"Total" : 100.00000389,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381442,
+"TimeStamp" : "2017-02-08 01:39:40",
+"Quantity" : 0.00144815,
+"Price" : 1061.00000001,
+"Total" : 1.53648715,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381440,
+"TimeStamp" : "2017-02-08 01:38:48",
+"Quantity" : 0.00007521,
+"Price" : 1061.00000001,
+"Total" : 0.07979781,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381439,
+"TimeStamp" : "2017-02-08 01:34:27",
+"Quantity" : 0.18244146,
+"Price" : 1059.00000000,
+"Total" : 193.20550614,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381438,
+"TimeStamp" : "2017-02-08 01:32:39",
+"Quantity" : 1.35183038,
+"Price" : 1059.00000000,
+"Total" : 1431.58837242,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381437,
+"TimeStamp" : "2017-02-08 01:26:11",
+"Quantity" : 0.61379170,
+"Price" : 1059.00000000,
+"Total" : 650.00541030,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381436,
+"TimeStamp" : "2017-02-08 01:23:44",
+"Quantity" : 0.74074776,
+"Price" : 1059.00000000,
+"Total" : 784.45187784,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381435,
+"TimeStamp" : "2017-02-08 01:21:57",
+"Quantity" : 0.00001011,
+"Price" : 1059.00000000,
+"Total" : 0.01070649,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381434,
+"TimeStamp" : "2017-02-08 01:20:47",
+"Quantity" : 0.74082301,
+"Price" : 1061.00000001,
+"Total" : 786.01321362,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381433,
+"TimeStamp" : "2017-02-08 01:19:03",
+"Quantity" : 0.31327313,
+"Price" : 1061.00000001,
+"Total" : 332.38279093,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381432,
+"TimeStamp" : "2017-02-08 01:18:39",
+"Quantity" : 0.42903450,
+"Price" : 1061.00000001,
+"Total" : 455.20560450,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381431,
+"TimeStamp" : "2017-02-08 01:17:44",
+"Quantity" : 0.42989429,
+"Price" : 1061.00000001,
+"Total" : 456.11784169,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381430,
+"TimeStamp" : "2017-02-08 01:16:13",
+"Quantity" : 0.43075580,
+"Price" : 1061.00000001,
+"Total" : 457.03190380,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381429,
+"TimeStamp" : "2017-02-08 01:15:20",
+"Quantity" : 0.43161904,
+"Price" : 1061.00000001,
+"Total" : 457.94780144,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381428,
+"TimeStamp" : "2017-02-08 01:14:32",
+"Quantity" : 0.43248400,
+"Price" : 1061.00000001,
+"Total" : 458.86552400,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381427,
+"TimeStamp" : "2017-02-08 01:11:53",
+"Quantity" : 0.03036911,
+"Price" : 1061.00000000,
+"Total" : 32.22153022,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381426,
+"TimeStamp" : "2017-02-08 01:09:58",
+"Quantity" : 0.42788723,
+"Price" : 1061.00000001,
+"Total" : 453.98835103,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381425,
+"TimeStamp" : "2017-02-08 01:09:45",
+"Quantity" : 0.00034005,
+"Price" : 1061.00000001,
+"Total" : 0.36079305,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381424,
+"TimeStamp" : "2017-02-08 01:07:24",
+"Quantity" : 0.00512345,
+"Price" : 1061.00000001,
+"Total" : 5.43595923,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381423,
+"TimeStamp" : "2017-02-08 00:40:05",
+"Quantity" : 0.00029850,
+"Price" : 1069.99999999,
+"Total" : 0.31939500,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381422,
+"TimeStamp" : "2017-02-08 00:19:20",
+"Quantity" : 0.00083163,
+"Price" : 1061.00000000,
+"Total" : 0.88235943,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381421,
+"TimeStamp" : "2017-02-08 00:02:32",
+"Quantity" : 0.00011088,
+"Price" : 1061.00000000,
+"Total" : 0.11764368,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381420,
+"TimeStamp" : "2017-02-07 23:52:46",
+"Quantity" : 0.00099690,
+"Price" : 1069.99999999,
+"Total" : 1.06668300,
+"FillType" : "FILL",
+"OrderType" : "SELL"
+},
+{
+"Id" : 1381419,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00508034,
+"Price" : 1069.99999999,
+"Total" : 5.43596380,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381418,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00738098,
+"Price" : 1069.99999999,
+"Total" : 7.89764860,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381417,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00513251,
+"Price" : 1069.99999999,
+"Total" : 5.49178570,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381416,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00001000,
+"Price" : 1069.00000000,
+"Total" : 0.01069000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381415,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00001000,
+"Price" : 1068.00000000,
+"Total" : 0.01068000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381414,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00001000,
+"Price" : 1067.00000000,
+"Total" : 0.01067000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+},
+{
+"Id" : 1381413,
+"TimeStamp" : "2017-02-07 23:51:52",
+"Quantity" : 0.00001000,
+"Price" : 1066.00000000,
+"Total" : 0.01066000,
+"FillType" : "FILL",
+"OrderType" : "BUY"
+}
+]}
